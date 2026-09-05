@@ -41,6 +41,7 @@
 ### 📱 Featured Projects
 
 #### 🛒 1. Kanz (E-commerce App)
+
 * **Overview:** A feature-rich, high-performance cross-platform e-commerce application engineered with scalable architecture to deliver a seamless and intuitive shopping experience.
 * **Key Features:**
   * Dynamic product discovery with real-time catalog updates & filtered searching.
@@ -49,6 +50,7 @@
 * **Architecture & Tech Stack:** 
   * **Framework:** Flutter & Dart
   * **State Management:** BLoC / Cubit (for scalable logic & predictable state handling)
+  * **Architecture Pattern:** MVVM (Model-View-ViewModel)
   * **Backend & Cloud Services:** Firebase Auth & Cloud Firestore
 * 🔗 **Case Study & UI Showcase:** [View full presentation on Behance](https://www.behance.net/gallery/228655603/Kanz)
 <img src="./Kanz.png" alt="Kanz App" width="350" style="border-radius: 8px;" />
@@ -58,16 +60,25 @@
 > An administrative system built with strict Clean Architecture and SOLID principles for real-time state sync and media management.
 * **Tech Stack:** Flutter, MVVM, Clean Architecture, Firebase Firestore, Cloudinary API.
 
-#### 📝 3. [Masar - مسار (Task & Note Manager)]
-> An offline-first productivity application for managing tasks and categorized notes.
-* **Tech Stack:** Flutter, Hive DB (NoSQL), Offline Sync Flow.
-<a href="https://www.behance.net/gallery/254977925/Masar">
-  <img src="./Masar.png" alt="Masar App" width="350" style="border-radius: 8px;" />
-</a>
 
-#### 📚 4. [Satr - سطر (E-Book Reader & Library)]
+#### 📚 3. [Satr - سطر (E-Book Reader & Library)]
 > A digital library mobile app integrated with open-source RESTful APIs for searching, viewing, and offline reading.
 * **Tech Stack:** Flutter, RESTful APIs, Local Storage.
+
+#### 📝 4. Masar - مسار (Task & Note Manager)
+
+* **Overview:** A modern, offline-first productivity and task management application designed to help users organize daily goals, notes, and schedules with an intuitive and distraction-free interface.
+* **Key Features:**
+  * Categorized note creation and structured task tracking with status management.
+  * Fast local storage persistence ensuring full performance without requiring an internet connection.
+  * Clean UI layout focused on daily planning, section organization, and smooth UX transitions.
+* **Architecture & Tech Stack:** 
+  * **Framework:** Flutter & Dart
+  * **Local Database:** Hive DB (NoSQL local storage for high-speed offline data handling)
+  * **State Management:** BLoC / Cubit
+  * **Architecture Pattern:** MVVM (Model-View-ViewModel)
+* 🔗 **Case Study & UI Showcase:** [View full presentation on Behance](https://www.behance.net/gallery/254977925/Masar)
+<img src="./Masar.png" alt="Masar App" width="350" style="border-radius: 8px;" />
 
 ---
 
