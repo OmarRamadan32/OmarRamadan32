@@ -53,7 +53,7 @@
   * **Architecture Pattern:** MVVM (Model-View-ViewModel)
   * **Backend & Cloud Services:** Firebase Auth & Cloud Firestore
 * 🔗 **Case Study & UI Showcase:** [View full presentation on Behance](https://www.behance.net/gallery/228655603/Kanz)
-*  <img src="./Kanz.png" alt="Kanz App" width="350" style="border-radius: 8px;" />
+ <img src="./Kanz.png" alt="Kanz App" width="350" style="border-radius: 8px;" />
 
 
 <br />
@@ -82,7 +82,7 @@
   * **State Management:** BLoC / Cubit
   * **Architecture Pattern:** MVVM (Model-View-ViewModel)
 * 🔗 **Case Study & UI Showcase:** [View full presentation on Behance](https://www.behance.net/gallery/254977925/Masar)
-* <img src="./Masar.png" alt="Masar App" width="350" style="border-radius: 8px;" />
+ <img src="./Masar.png" alt="Masar App" width="350" style="border-radius: 8px;" />
 
 
 ---
