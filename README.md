@@ -42,7 +42,7 @@
 
 #### 🛒 1. Kanz (E-commerce App)
 <a href="https://www.behance.net/gallery/228655603/Kanz">
-  <img src="/kanz.png" alt="Kanz App Showcase" width="100%" style="max-width: 550px; border-radius: 10px;" />
+  <img src="./kanz.png" alt="Kanz App Showcase" width="100%" style="max-width: 550px; border-radius: 10px;" />
 </a>
 
 * **Overview:** A feature-rich, high-performance cross-platform e-commerce application engineered with scalable architecture to deliver a seamless and intuitive shopping experience.
