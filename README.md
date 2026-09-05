@@ -40,12 +40,14 @@
 
 ### 📱 Featured Projects
 
-#### 🛒 1. [Kanz (E-commerce App)]
-> A scalable cross-platform e-commerce application with real-time product catalogs, custom wishlists, and cart management.
-* **Tech Stack:** Flutter, BLoC/Cubit, Firebase Auth & Firestore.
+#### 🛒 Kanz (E-commerce App)
 <a href="https://www.behance.net/gallery/228655603/Kanz">
-  <img src="./Kanz.png" alt="Kanz App" width="350" style="border-radius: 8px;" />
+  <img src="./assets/kanz.png" alt="Kanz App" width="100%" style="max-width: 500px; border-radius: 8px;" />
 </a>
+
+* A scalable cross-platform e-commerce application with real-time product catalogs, custom wishlists, and cart management.
+* **Tech Stack:** Flutter, BLoC/Cubit, Firebase Auth & Firestore.
+* 🔗 [View Project on Behance](https://www.behance.net/gallery/228655603/Kanz)[cite: 1]
 
 
 #### 🏢 2. [SLT (Management System)]
