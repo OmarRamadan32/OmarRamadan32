@@ -41,10 +41,6 @@
 ### 📱 Featured Projects
 
 #### 🛒 1. Kanz (E-commerce App)
-<a href="https://www.behance.net/gallery/228655603/Kanz">
-  <img src="./kanz.png" alt="Kanz App Showcase" width="100%" style="max-width: 550px; border-radius: 10px;" />
-</a>
-
 * **Overview:** A feature-rich, high-performance cross-platform e-commerce application engineered with scalable architecture to deliver a seamless and intuitive shopping experience.
 * **Key Features:**
   * Dynamic product discovery with real-time catalog updates & filtered searching.
@@ -55,6 +51,7 @@
   * **State Management:** BLoC / Cubit (for scalable logic & predictable state handling)
   * **Backend & Cloud Services:** Firebase Auth & Cloud Firestore
 * 🔗 **Case Study & UI Showcase:** [View full presentation on Behance](https://www.behance.net/gallery/228655603/Kanz)
+<img src="./Kanz.png" alt="Kanz App" width="350" style="border-radius: 8px;" />
 
 
 #### 🏢 2. [SLT (Management System)]
