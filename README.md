@@ -55,19 +55,19 @@
 * 🔗 **Case Study & UI Showcase:** [View full presentation on Behance](https://www.behance.net/gallery/228655603/Kanz)
  <img src="./Kanz.png" alt="Kanz App" width="350" style="border-radius: 8px;" />
 
-<hr style="width: 50%; border: 0.5px solid #30363d; margin: 30px auto 30px 0;" />
+
 
 #### 🏢 2. [SLT (Management System)]
 > An administrative system built with strict Clean Architecture and SOLID principles for real-time state sync and media management.
 * **Tech Stack:** Flutter, MVVM, Clean Architecture, Firebase Firestore, Cloudinary API.
 
-<hr style="width: 50%; border: 0.5px solid #30363d; margin: 30px auto 30px 0;" />
+
 
 #### 📚 3. [Satr - سطر (E-Book Reader & Library)]
 > A digital library mobile app integrated with open-source RESTful APIs for searching, viewing, and offline reading.
 * **Tech Stack:** Flutter, RESTful APIs, Local Storage.
 
-<hr style="width: 50%; border: 0.5px solid #30363d; margin: 30px auto 30px 0;" />
+
 
 #### 📝 4. Masar - مسار (Task & Note Manager)
 
