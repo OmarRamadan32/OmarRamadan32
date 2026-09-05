@@ -55,6 +55,9 @@
 * 🔗 **Case Study & UI Showcase:** [View full presentation on Behance](https://www.behance.net/gallery/228655603/Kanz)
 <img src="./Kanz.png" alt="Kanz App" width="350" style="border-radius: 8px;" />
 
+<br />
+---
+<br />
 
 #### 🏢 2. [SLT (Management System)]
 > An administrative system built with strict Clean Architecture and SOLID principles for real-time state sync and media management.
