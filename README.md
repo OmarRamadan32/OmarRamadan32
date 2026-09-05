@@ -56,6 +56,9 @@
 #### 📝 3. [Masar - مسار (Task & Note Manager)]
 > An offline-first productivity application for managing tasks and categorized notes.
 * **Tech Stack:** Flutter, Hive DB (NoSQL), Offline Sync Flow.
+<a href="https://www.behance.net/gallery/254977925/Masar">
+  <img src="./Masar.png" alt="Masar App" width="350" style="border-radius: 8px;" />
+</a>
 
 #### 📚 4. [Satr - سطر (E-Book Reader & Library)]
 > A digital library mobile app integrated with open-source RESTful APIs for searching, viewing, and offline reading.
