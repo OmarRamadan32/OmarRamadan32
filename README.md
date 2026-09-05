@@ -26,9 +26,8 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<!-- Generated using Charmly Icons -->
 <p align="center">
-  <img src="https://charmly.amrelmahdy001-b28.workers.dev/icons?i=dart,flutter,firebase,git,github,vscode,figma&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,python,postman,figma&perline=5" alt="Omar's Tech Stack" />
 </p>
 
 * **Core & Framework:** Dart, Flutter
