@@ -68,7 +68,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarRamadan32&theme=tokyonight&hide_border=true" alt="Omar's Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarRamadan32&theme=tokyonight&hide_border=true" alt="Omar's Streak" width="100%" />
 </p>
 
 ---
