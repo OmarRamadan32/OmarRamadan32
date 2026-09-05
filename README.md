@@ -47,11 +47,8 @@
   * Dynamic product discovery with real-time catalog updates & filtered searching.
   * Interactive cart management, order summary, and personalized custom wishlists.
   * Secure user authentication and real-time backend synchronization.
-* **Architecture & Tech Stack:** 
-  * **Framework:** Flutter & Dart
-  * **State Management:** BLoC / Cubit (for scalable logic & predictable state handling)
-  * **Architecture Pattern:** MVVM (Model-View-ViewModel)
-  * **Backend & Cloud Services:** Firebase Auth & Cloud Firestore
+* **Architecture & Tech Stack:**
+  Flutter | Dart | BloC/Cubit | MVVM | Firebase(Auth, Firestore)
 * 🔗 **Case Study & UI Showcase:** [View full presentation on Behance](https://www.behance.net/gallery/228655603/Kanz)
  <img src="./Kanz.png" alt="Kanz App" width="350" style="border-radius: 8px;" />
 
