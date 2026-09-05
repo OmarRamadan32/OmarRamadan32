@@ -44,6 +44,9 @@
 #### 🛒 1. [Kanz (E-commerce App)]
 > A scalable cross-platform e-commerce application with real-time product catalogs, custom wishlists, and cart management.
 * **Tech Stack:** Flutter, BLoC/Cubit, Firebase Auth & Firestore.
+<a href="https://www.behance.net/gallery/228655603/Kanz">
+  <img src="./Kanz.png" alt="Kanz App" width="350" style="border-radius: 8px;" />
+</a>
 
 
 #### 🏢 2. [SLT (Management System)]
