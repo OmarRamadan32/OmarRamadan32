@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,python,postman,figma&perline=5" alt="Omar's Tech Stack" width="50%" style="max-width: 500px;" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,python,postman,figma&perline=10" alt="Omar's Tech Stack" width="80%" style="max-width: 500px;" />
 </p>
 
 * **Core & Framework:** Dart, Flutter
