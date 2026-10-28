@@ -44,10 +44,12 @@
 #### 🛒 1. Kanz (E-commerce App)
 
 * **Overview:** A feature-rich, high-performance cross-platform e-commerce application engineered with scalable architecture to deliver a seamless and intuitive shopping experience.
+
 * **Key Features:**
   * Dynamic product discovery with real-time catalog updates & filtered searching.
   * Interactive cart management, order summary, and personalized custom wishlists.
   * Secure user authentication and real-time backend synchronization.
+
 * **Architecture & Tech Stack:**
   * **Framework:** Flutter & Dart
   * **State Management:** BLoC / Cubit (for scalable logic & predictable state handling)
@@ -57,9 +59,28 @@
 
 <br />
 
-#### 🏢 2. [SLT (Management System)]
-> An administrative system built with strict Clean Architecture and SOLID principles for real-time state sync and media management.
-* **Tech Stack:** Flutter, MVVM, Clean Architecture, Firebase Firestore, Cloudinary API.
+#### 👥 2.SLT – (Volunteer Team Management System)
+
+* **Overview:**
+SLT is a comprehensive management system designed to streamline the operations of a college-based volunteer team. It centralizes team activities, meetings, events, internal initiatives, member permissions, and communications in one platform.
+
+* **Key Features:**
+  * Interactive Posts:** A social feed supporting posts, comments, and reactions.
+  * Dynamic Commenting System:** A reusable commenting feature that can be integrated into different sections of the application.
+  * Administrative Dashboard:** Manage application content, member permissions, team positions, and responsibilities.
+  * Role-Based Access Control:** Control access to features and workflows based on each member's role and permissions.
+  * Dynamic Banners:** Display event countdowns, event links, forms, and internal announcements.
+  * Activity Management:** Manage team activities, participants, assigned members, responsible organizers, and related meetings.
+  * Dynamic Scheduling:** Attach schedules to different activities and allow members to confirm attendance or submit apologies for specific time slots.
+  * Team Messages & Notifications:** Centralize team announcements and leaders' messages with permission-based visibility and publishing controls.
+  * Push Notifications:** Deliver team announcements and updates using Firebase Cloud Messaging.
+  * Remote Configuration:** Control configurable application behavior remotely using Firebase Remote Config.
+
+* **Architecture & Tech Stack:**
+  * Architecture & Design:** MVVM, Singleton & Factory Design Patterns, Dependency Injection (DI)
+  * Framework & State Management:** Flutter, Dart, Cubit
+  * Backend & Services:** Cloud Firestore, Firebase Authentication, Firebase Cloud Messaging (FCM), Firebase Remote Config
+  * Media Management:** Cloudinary API for image storage and delivery
 
 <br />
 
@@ -72,10 +93,12 @@
 #### 📝 4. Masar - مسار (Task & Note Manager)
 
 * **Overview:** A modern, offline-first productivity and task management application designed to help users organize daily goals, notes, and schedules with an intuitive and distraction-free interface.
+
 * **Key Features:**
   * Categorized note creation and structured task tracking with status management.
   * Fast local storage persistence ensuring full performance without requiring an internet connection.
   * Clean UI layout focused on daily planning, section organization, and smooth UX transitions.
+
 * **Architecture & Tech Stack:** 
   * **Framework:** Flutter & Dart
   * **Local Database:** Hive DB (NoSQL local storage for high-speed offline data handling)
