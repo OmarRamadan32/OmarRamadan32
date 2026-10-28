@@ -31,10 +31,11 @@
 </p>
 
 * **Core & Framework:** Dart, Flutter
-* **Architecture & State Management:** BLoC / Cubit, Provider, MVVM, Clean Architecture, Dependency Injection
-* **Backend & APIs:** RESTful APIs, Firebase (Auth & Firestore), Cloudinary API
-* **Local Storage & Databases:** Hive NoSQL, Offline-first architecture
+* **Architecture & State Management:** BLoC / Cubit, Provider, MVVM, Clean Architecture, Dependency Injection, Design Patterns
+* **Backend & APIs:** RESTful APIs, Firebase (Auth & Firestore, FCM, Remote Config), Cloudinary API
+* **Local Storage & Databases:** Hive NoSQL, SharedPreferences
 * **Engineering Practices:** SOLID Principles, OOP, Clean Code, Responsive & Adaptive UI Design
+* **Version Control & Collaboration:** Git, GitHub
 
 ---
 
