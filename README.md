@@ -59,7 +59,7 @@
 
 <br />
 
-#### 👥 2.SLT – (Volunteer Team Management System)
+#### 👥 2. SLT – (Volunteer Team Management System)
 
 * **Overview:**
 SLT is a comprehensive management system designed to streamline the operations of a college-based volunteer team. It centralizes team activities, meetings, events, internal initiatives, member permissions, and communications in one platform.
