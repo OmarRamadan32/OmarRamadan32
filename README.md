@@ -65,22 +65,22 @@
 SLT is a comprehensive management system designed to streamline the operations of a college-based volunteer team. It centralizes team activities, meetings, events, internal initiatives, member permissions, and communications in one platform.
 
 * **Key Features:**
-  * Interactive Posts:** A social feed supporting posts, comments, and reactions.
-  * Dynamic Commenting System:** A reusable commenting feature that can be integrated into different sections of the application.
-  * Administrative Dashboard:** Manage application content, member permissions, team positions, and responsibilities.
-  * Role-Based Access Control:** Control access to features and workflows based on each member's role and permissions.
-  * Dynamic Banners:** Display event countdowns, event links, forms, and internal announcements.
-  * Activity Management:** Manage team activities, participants, assigned members, responsible organizers, and related meetings.
-  * Dynamic Scheduling:** Attach schedules to different activities and allow members to confirm attendance or submit apologies for specific time slots.
-  * Team Messages & Notifications:** Centralize team announcements and leaders' messages with permission-based visibility and publishing controls.
-  * Push Notifications:** Deliver team announcements and updates using Firebase Cloud Messaging.
-  * Remote Configuration:** Control configurable application behavior remotely using Firebase Remote Config.
+  * **Interactive Posts:** A social feed supporting posts, comments, and reactions.
+  * **Dynamic Commenting System:** A reusable commenting feature that can be integrated into different sections of the application.
+  * **Administrative Dashboard:** Manage application content, member permissions, team positions, and responsibilities.
+  * **Role-Based Access Control:** Control access to features and workflows based on each member's role and permissions.
+  * **Dynamic Banners:** Display event countdowns, event links, forms, and internal announcements.
+  * **Activity Management:** Manage team activities, participants, assigned members, responsible organizers, and related meetings.
+  * **Dynamic Scheduling:** Attach schedules to different activities and allow members to confirm attendance or submit apologies for specific time slots.
+  * **Team Messages & Notifications:** Centralize team announcements and leaders' messages with permission-based visibility and publishing controls.
+  * **Push Notifications:** Deliver team announcements and updates using Firebase Cloud Messaging.
+  * **Remote Configuration:** Control configurable application behavior remotely using Firebase Remote Config.
 
 * **Architecture & Tech Stack:**
-  * Architecture & Design:** MVVM, Singleton & Factory Design Patterns, Dependency Injection (DI)
-  * Framework & State Management:** Flutter, Dart, Cubit
-  * Backend & Services:** Cloud Firestore, Firebase Authentication, Firebase Cloud Messaging (FCM), Firebase Remote Config
-  * Media Management:** Cloudinary API for image storage and delivery
+  * **Architecture & Design:** MVVM, Singleton & Factory Design Patterns, Dependency Injection (DI)
+  * **Framework & State Management:** Flutter, Dart, Cubit
+  * **Backend & Services:** Cloud Firestore, Firebase Authentication, Firebase Cloud Messaging (FCM), Firebase Remote Config
+  * **Media Management:** Cloudinary API for image storage and delivery
 
 ---
 
