@@ -57,7 +57,7 @@
 * 🔗 **Case Study & UI Showcase:** [View full presentation on Behance](https://www.behance.net/gallery/228655603/Kanz)
  <img src="./Kanz.png" alt="Kanz App" width="350" style="border-radius: 8px;" />
 
-<br />
+---
 
 #### 👥 2. SLT – (Volunteer Team Management System)
 
@@ -82,13 +82,13 @@ SLT is a comprehensive management system designed to streamline the operations o
   * Backend & Services:** Cloud Firestore, Firebase Authentication, Firebase Cloud Messaging (FCM), Firebase Remote Config
   * Media Management:** Cloudinary API for image storage and delivery
 
-<br />
+---
 
 #### 📚 3. [Satr - سطر (E-Book Reader & Library)]
 > A digital library mobile app integrated with open-source RESTful APIs for searching, viewing, and offline reading.
 * **Tech Stack:** Flutter, RESTful APIs, Local Storage.
 
-<br />
+---
 
 #### 📝 4. Masar - مسار (Task & Note Manager)
 
